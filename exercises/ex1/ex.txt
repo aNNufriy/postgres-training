@@ -1,0 +1,7 @@
+There are entities Student and Teacher, every entity has a name.
+Every student may have many teachers.
+Every teacher may have many students.
+
+Your task:
+  Organize database storing of this information in relational database.
+  Write SQL to query a list of all teachers and number of students for each of them.
