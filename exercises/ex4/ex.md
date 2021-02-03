@@ -6,15 +6,15 @@ For this challenge you need to create a simple SELECT statement that will return
 
 *people* table schema
 ```
-	id INTEGER
-	name VARCHAR(50)
+d INTEGER
+ame VARCHAR(50)
 ```
 
 *toys* table schema
 ```
-id
-name 
-people_id
+id INTEGER
+name VARCHAR(50)
+people_id INTEGER
 ```
 
 You should return all people fields as well as the toy count as "toy_count".
