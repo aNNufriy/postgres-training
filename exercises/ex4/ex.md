@@ -6,8 +6,8 @@ For this challenge you need to create a simple SELECT statement that will return
 
 *people* table schema
 ```
-d INTEGER
-ame VARCHAR(50)
+id INTEGER
+name VARCHAR(50)
 ```
 
 *toys* table schema
